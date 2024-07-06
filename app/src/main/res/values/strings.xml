@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppRestApi</string>
+    <string name="add_task">Adicionar tarefa</string>
+    <string name="add_note_description">Adicionar nova nota</string>  <!-- Nova string para acessibilidade -->
+</resources>
